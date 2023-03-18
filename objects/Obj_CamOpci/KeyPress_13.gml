@@ -1,6 +1,6 @@
 switch(pos){
 	case 0:
-		room_goto(Sala_Dificultad);
+		room_goto(Sala_Tematica);
 	break;
 	case 1:
 		//room_goto(Sala_Opciones);

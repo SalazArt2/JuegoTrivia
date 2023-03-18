@@ -1,4 +1,4 @@
-Preguntas();
-room_goto(Sala_Preguntas);
+//Preguntas();
+room_goto(Sala_Tematica);
 
 
